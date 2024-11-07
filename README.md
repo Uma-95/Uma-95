@@ -1,6 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Uma</h1>
-<h3 align="center">Code enthusiast and product manager by day, UI/UX designer by night 🌟. Currently diving into TypeScript and Angular to create responsive, user-friendly web apps. When I’m not coding, I’m strategizing product roadmaps, improving workflows, and ensuring the best user experiences 🎨. Always learning, always iterating, and always ready to collaborate! Let’s connect and build something amazing together. Find me on <a href="https://www.linkedin.com/in/umalamba/" target="_blank">LinkedIn</h3> 
+<h4 align="center"> Code enthusiast and product manager by day, UI/UX designer by night 🌟. 
+  Currently diving into TypeScript and Angular to create responsive, user-friendly web apps.
+  When I’m not coding, I’m strategizing product roadmaps, improving workflows, and ensuring the best user experiences 🎨. 
+  Always learning, always iterating, and always ready to collaborate!
+  Let’s connect and build something amazing together. Find me on <a href="https://www.linkedin.com/in/umalamba/" target="_blank">LinkedIn</h4> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uma-95&label=Profile%20views&color=0e75b6&style=flat" alt="uma-95" /> </p>
 
