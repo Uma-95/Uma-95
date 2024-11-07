@@ -11,9 +11,9 @@
   Find me on <a href="https://www.linkedin.com/in/umalamba/" target="_blank">LinkedIn</h4> 
 
   <br>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=uma-95&label=Profile%20views&color=0e75b6&style=flat" alt="uma-95" /> </p>
-</div>
 
+</div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=uma-95&label=Profile%20views&color=0e75b6&style=flat" alt="uma-95" /> </p>
 
 
 <!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uma-95" alt="uma-95" /></a> </p>-->
@@ -38,6 +38,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uma-95&show_icons=true&locale=en&layout=compact" alt="uma-95" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=uma-95&show_icons=true&locale=en" alt="uma-95" /></p>
+<!--<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=uma-95&show_icons=true&locale=en" alt="uma-95" /></p>-->
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=uma-95&show_icons=true&locale=en&cachebust=<timestamp>" alt="uma-95" /></p>
+
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uma-95&" alt="uma-95" /></p>-->
