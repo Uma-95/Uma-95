@@ -3,10 +3,7 @@
 <div>
   <p><img align="left" src="https://i.pinimg.com/564x/6b/59/f4/6b59f4e858aed1e153debe9b621bfe0b.jpg" alt="uma-95" height="200" width="200" /></p> 
   <br>
-<h4 align="center"> Code enthusiast and product manager by day, UI/UX designer by night 🌟.  <br>
-  Currently diving into TypeScript and Angular to create responsive, user-friendly web apps. <br>
-  When I’m not coding, I’m strategizing product roadmaps,  <br> improving workflows, and ensuring the best user experiences 🎨.   <br>
-  Always learning, always iterating, and always ready to collaborate! <br>
+<h4 align="center"> Product enthusiast 🌟.  <br>
   Let’s connect and build something amazing together.  <br>
   Find me on <a href="https://www.linkedin.com/in/umalamba/" target="_blank">LinkedIn</h4> 
 
